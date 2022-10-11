@@ -12,4 +12,4 @@ Working directory should contain these three files plus dense.bed outputs from t
 
 ## Output
 - All results will be inside <Extract_States_YYYY-MM-DD> directory
-- Check main results in <distance_from_TSS directory>
+- Check main results & plots in <distance_from_TSS directory>
